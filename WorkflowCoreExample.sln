@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workflow.Examples.Example07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow.Examples.Example08", "Workflow.Examples.Example08\Workflow.Examples.Example08.csproj", "{77185455-81D6-43D7-AF0D-1650BA97DA56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow.Examples.Example09", "Workflow.Examples.Example09\Workflow.Examples.Example09.csproj", "{E6CC0132-47F4-4370-8261-5AA2FB8685F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{77185455-81D6-43D7-AF0D-1650BA97DA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77185455-81D6-43D7-AF0D-1650BA97DA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77185455-81D6-43D7-AF0D-1650BA97DA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CC0132-47F4-4370-8261-5AA2FB8685F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CC0132-47F4-4370-8261-5AA2FB8685F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CC0132-47F4-4370-8261-5AA2FB8685F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CC0132-47F4-4370-8261-5AA2FB8685F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

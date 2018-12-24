@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="WorkflowCore.Users" Version="1.6.2" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Workflow.Examples.Core\Workflow.Examples.Core.csproj" />
   </ItemGroup>
 
